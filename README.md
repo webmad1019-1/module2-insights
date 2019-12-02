@@ -23,73 +23,113 @@
 
 ## Most important topics
 
-### HTML5
+### Node
 
-- The standard
-- W3c validation
+- Installation
+- Execution
+- Node packages with NPM
+- Require packages and export modules
 
-### CSS
+### Express
 
-- CSS Box model
-- Flexbox
-- Responsive web design
-- Selectors
-- CSS
+- Installation
+- Create routes
+- Understand req, res, next
+- Creating middlewares
+- Renderize JSON or views
+- Layouts and partials
+- URL params and querystrings
+- Requesting POST bodies
+- Creating your own API
 
-### JS
+### Mongo
 
-- Data types
-- Functions
-- Arrays
-- Classes and objects
-- DOM manipulation
-- Map filter and reduce
-- Asynchronicity
-- Testing and QA
-- Context
-- This
-- Apply, bind, call
-- Scope
-- Canvas repainting and setInterval engine
-- Canvas grid with translate, scale, rotate
-- Canvas styling
-- Canvas save and restore
-- Canvas animation, bouncing, friction, restitution...
+- Installation
+- Querying, filtering, sorting, projecting
+
+### Mongoose
+
+- Schemas and models
+- Be able to use its methods to work with the DB
+- CRUD operations
+
+### Passport
+
+- Serialization and deserialization
+- Understand passport flow
+- Authorisation and authentication
+- Conventional sign up, login
+- Social sign up, login
+
+### Google maps
+
+- Creating maps
+- Creating markers
+- Interacting with the map
+- Understand google maps licensing and token
+
+### Ajax & axios
+
+- CRUD operations using only JSON
+- Manipulating the DOM to show database info without page refresh
+
+### File upload
+
+- Implementing file upload in your own server using multer
+- Using cloudinary with multer specific flavour
+
+### Nodemailer
+
+- Be able to send an automated email
+- Be able to finish the sign up process by issuing tokens
+
+### Heroku and Atlas
+
+- Deploy
+- Re-deploy
+- Be able to connect to your remote DB
+- Understand environment variables
 
 ## Most important LUs
 
-- HTML | Introduction
-- CSS | Intro & Selectors
-- CSS | Box Model
-- CSS | Responsive Web Design
-- CSS | Flexbox
-- CSS | Positioning
-- JS | Conditionals and Loops
-- JS | Data Types in JavaScript - Arrays
-- JS | Functions
-- DOM | Introduction & Selectors
-- JS | Object Oriented Intro - Part 1 - objects, methods and this keyword
-- JS | Object Oriented Intro - Part 2 - class and inheritance
-- JS | Arrays & Objects
-- JS | Arrays - Map, Reduce & Filter
-- JS | Arrays - Sort & Reverse
-- JS | Async & Callbacks
-- JS | Testing & Jasmine
-- JS | Closures & Scope
-- JS | Context & Function invocation
-- Canvas | Intro & Basic Drawing
-- Canvas | Basic Animations
-- Canvas | Advanced Animations
-- Canvas | Transformations and Compositing
+- MongoDB | Introduction
+- MongoDB | MongoDB Compass CRUD Operations
+- MongoDB | Data Models
+- Express | Introduction
+- Express | Dynamic Views
+- Express | Layouts & Partials
+- Mongoose | Introduction
+- Mongoose | Schemas, Models & Documents
+- Express | GET Methods - Route Params & Query String
+- Express | POST Method - Request Body
+- Mongoose & Express | List - Read Documents
+- Mongoose & Express | Create - Update Documents
+- Mongoose & Express | Documents Relationships
+- Node | Basic Authorization
+- Node | Basic Authentication & Sessions
+- Passport | Sign Up, Login, Logout
+- Passport | Strategies and Social Login
+- Passport | Security & Roles
+- Google Maps & Express
+- AJAX | Axios GET Request
+- AJAX | Axios POST & PUT
+- Nodemailer
+- Express | File Upload
+- Express | File Upload CDN
+- Deploy to Heroku
 
 ## Most important Labs
 
-- Greatest Movies of All Time
-- CSS Spotify clone
-- Memory Game
-- Chronometer
-- Koans
-- Flexbox Slack
-- JavaScript functions and arrays
-- JavaScript Vikings
-- DOM Ironhack Cart
+- ES6 JavaScript Koans
+- Advanced Querying MongoDB
+- Express Basic Site
+- Mongoose Recipes
+- IronBeers
+- Express Spotify
+- Mongoose Movies
+- Express basic auth
+- Authentication with passport
+- Passport roles
+- AJAX CRUD Characters
+- Coffee and books
+- File Upload
